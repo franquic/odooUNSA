@@ -10,7 +10,7 @@
 1. Descargar el repositorio
 ~~~
 git clone https://github.com/escuelafullstack/template_odoo_docker_compose.git
-~~~
+~~
 2. Ingresar a la carpeta 
 ~~~
 cd template_odoo_docker_compose
